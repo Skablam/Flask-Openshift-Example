@@ -1,1 +1,1 @@
-from run import app as application
+from flask_openshift_example import app as application
